@@ -53,7 +53,8 @@ https://github.com/hsy2493/movielstm/blob/main/movie/report/train_data_EDA_repor
 -중복값 : 데이터 전처리로 중복값(0개)은 없다. <br> 
 
 <br>
-<img width="853" alt="image" src="https://github.com/user-attachments/assets/32dbd429-5a4b-4027-a317-7d5b11353dfa" /> <br>
+<img width="863" alt="image" src="https://github.com/user-attachments/assets/fcdcd3c3-c088-496d-8949-bfc00cdedf21" />
+ <br>
 <설명> <br>
 -ID : 고유 ID  <br>
 -Document : 영화 리뷰 내용  <br>
@@ -79,8 +80,9 @@ https://github.com/hsy2493/movielstm/blob/main/movie/movie.ipynb <br>
 <br>
 <b> 
 6. 성과 <br>
-- 텍스트(text) 데이터셋을 활용하여, 딥러닝 프로젝트를 진행하는 것을 경험함.
-
+- kaggle 사이트 이외에 GitHub 등에서 텍스트 데이터셋 수집이 가능함.
+- 텍스트(text) 데이터셋을 활용하여, 딥러닝 프로젝트 모델 정의 및 데이터 학습이 가능함. <br>
+- MacOS용 라이브러리 Font를 활용하여, 막대 그래프 시각화에 AppleGothic.ttf 폰트를 적용하는 것을 학습함.
 </b>
 
 
