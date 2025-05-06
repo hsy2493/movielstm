@@ -34,7 +34,6 @@ https://github.com/hsy2493/movielstm/tree/main/movie/dataset <br>
 https://github.com/e9t/nsmc <br>
 
 (2) 데이터 분석 (EDA 기반)<br>
-<img width="391" alt="image" src="https://github.com/user-attachments/assets/3351b234-19b3-4fd8-9570-b5b881041154" /><img width="864" alt="image" src="https://github.com/user-attachments/assets/21b8cce6-5e71-4faa-a111-1b533dc145a9" /> <br>
 - 데이터 분석 과정 상세 코드 <br>
 https://github.com/hsy2493/movielstm/blob/main/movie/movie.ipynb <br>
 - 데이터 분석 자료 (EDA) <br>
