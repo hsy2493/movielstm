@@ -1,0 +1,32 @@
+/* style.css */
+/* 기본 스타일 */
+.title {
+    color: #1E88E5;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* 버튼 스타일 */
+.stButton>button {
+    background-color: #1E88E5;
+    color: white;
+    border-radius: 4px;
+}
+
+/* 결과 메시지 스타일 */
+.success-message {
+    padding: 10px;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+/* 경고 메시지 스타일 */
+.warning-message {
+    padding: 10px;
+    border-radius: 4px;
+}
