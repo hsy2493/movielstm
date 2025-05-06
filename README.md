@@ -2,14 +2,18 @@
 1. 작업 기간 : 2025. 03. 25 ~ 2025. 03. 26
 2. 주제 : 영화리뷰 감성측정 AI 사이트
 3. 목적 : 영화 산업에서 소비자 선호도를 파악하는 데 중요한 영화 리뷰 데이터를 분석하고, 리뷰의 감성(긍정/부정)을 예측하는 영화리뷰 감성측정 AI 사이트 프로젝트입니다. 이를 통해 향후 영화 제작을 위한 참고 데이터를 제공하는 것을 주목적으로 합니다.
-4. 주요 기능 : 영화리뷰 기반으로 감성 분석 
-* 영화리뷰 감성 PPT 자료 <br>
-https://github.com/hsy2493/movielstm/issues/1#issue-3042721993 <br>
-5. 작업 툴 :
-- 사용 언어 : python
-- 딥러닝 모델 정의 : LSTM 모델
-- UI : streamlit
-- 데이터 프로파일링 (EDA) : ydata_profiling <br>
+4. 주요 기능 : 영화리뷰 기반으로 감성 분석 <br>
+* 영화리뷰 감성 PPT 자료 <br> <br>
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/9f41f602-fe31-492b-9726-aac98a39dabe" />
+<br>
+https://github.com/hsy2493/movielstm/issues/1#issue-3042721993 <br><br>
+
+5. 작업 툴 : 
+* 사용 언어 : python <br>
+* 딥러닝 모델 정의 : LSTM 모델 <br>
+* UI : streamlit <br>
+* 데이터 프로파일링 (EDA) : ydata_profiling <br>
+<br>
 
 6. 결과물 : <br>
 
